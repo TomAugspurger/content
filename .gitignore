@@ -40,3 +40,8 @@ __MACOSX/
 
 #Ipython
 .ipynb_checkpoints/
+
+.rt_key
+bigdf.csv
+critics.csv
+data/
